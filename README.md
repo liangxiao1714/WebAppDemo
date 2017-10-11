@@ -1,0 +1,2 @@
+# WebAppDemo
+.NetCore
